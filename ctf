@@ -1,0 +1,1 @@
+find / -type f \( -name abc -o -name xyz -o -name 123 -o -name 456 -o  \) 2>>/dev/null
